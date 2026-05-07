@@ -3,6 +3,6 @@ The [keynote slides](https://docs.google.com/presentation/d/1pX5HwL__miLfatOlB1-
 
 Some of the figures used in slides are available in high resolution with CC-BY license in FigShare: 
 
-[Survery figures](https://doi.org/10.6084/m9.figshare.32032020)
+[Survey figures](https://doi.org/10.6084/m9.figshare.32032020)
 
 [Snoopie figures](https://doi.org/10.6084/m9.figshare.c.7190766.v1)
